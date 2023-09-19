@@ -1,0 +1,25 @@
+{
+  "name": "practiceproject",
+  "version": "0.1.0",
+  "description": "Practice project to work with Lit using atomic web components to build complex views.",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --app-index ./index.html --node-resolve --open --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^2.8.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.1"
+  },
+  "keywords": [
+    "lit",
+    "lit element",
+    "practice",
+    "atomic design",
+    "open web components",
+    "reusable components"
+  ]
+}
